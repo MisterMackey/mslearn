@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kE9JapXGO0L1uwdHMNLKhLQVWg8QNqBQnyMYFq6FBC1ZqruGnDhHLis1YKPhUokkcH02DXXfKIonkWmYZR1UCA==",
+  "success": true,
+  "projectFilePath": "/mnt/dev/Learning/az-104/test/test.csproj",
+  "expectedPackageFiles": [
+    "/home/mrmackey/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
